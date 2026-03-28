@@ -104,9 +104,9 @@ Place,Car Num,Team,Penalty,Cost Score,Presentation Score,Design Score,Accelerati
 103,134,Instituto Tecnologico de Estudios Superi,,14.0,5.0,20,,,,,,39.0
 104,126,ITESM - Campus Cuernavaca,,15.5,10.0,10,,,,,,35.5
 105,116,North Dakota State Univ,,-50.0,12.0,20,4.5,3.5,6.5,24,,20.5
-106 T,114,Southern Illinois Univ - Edwardville,,-50.0,17.6,,,,,,,,20.0
-106 T,129,California State Univ - Chico,,-50.0,14.3,,,,,,,,20.0
-Unranked,25,Instituto Tecnologico de Chihuahua,,,,2.5,,,,,,,pres only
+106 T,114,Southern Illinois Univ - Edwardville,,-50.0,17.6,,,,,,,20.0
+106 T,129,California State Univ - Chico,,-50.0,14.3,,,,,,,20.0
+Unranked,25,Instituto Tecnologico de Chihuahua,,,,2.5,,,,,,pres only
 Unranked,26,Univ of Texas - Dallas,,51.3,,,,,,,,pres only
 Unranked,37,Old Dominion Univ,,18.2,,,,,,,,pres only
 Unranked,63,Drexel Univ,,17.1,,,,,,,,pres only
