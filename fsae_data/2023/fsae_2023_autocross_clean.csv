@@ -33,10 +33,6 @@ Place,Car Num,Team,Best Time,Penalty,Score
 32,117,Missouri University of Science and Tech,51.331,,84.5
 33,56,Clemson Univ,51.501,,83.37
 34,17,Univ of Victoria,51.718,,81.94
-Minimum Time (seconds),,,,,
-Maximum Time (seconds),,,,,
-,,,,,
-Place,Car Num,Team,Best Time,Penalty,Score
 35,73,Carleton Univ,51.812,,81.32
 36,101,Arizona State Univ - Tempe,51.999,,80.11
 37,141,Univ of Kentucky,52.208,,78.76
@@ -71,10 +67,6 @@ Place,Car Num,Team,Best Time,Penalty,Score
 66,126,Univ of Puerto Rico-Mayaquez,58.295,,43.72
 67,110,Univ of Illinois - Chicago,58.605,,42.13
 68,107,Florida Atlantic Univ,58.875,,40.76
-Minimum Time (seconds),,,,,
-Maximum Time (seconds),,,,,
-,,,,,
-Place,Car Num,Team,Best Time,Penalty,Score
 69,49,Univ of North Florida,58.963,,40.31
 70,113,Univ of Oklahoma,59.533,,37.47
 71,127,Univ of Virginia,60.168,,34.36
@@ -109,10 +101,6 @@ Place,Car Num,Team,Best Time,Penalty,Score
 ,66,South Dakota State Univ,DNA,,
 ,67,UP Aguascalientes,DNA,,
 ,68,Univ of Alberta,DNA,,
-Minimum Time (seconds),,,,,
-Maximum Time (seconds),,,,,
-,,,,,
-Place,Car Num,Team,Best Time,Penalty,Score
 ,69,Universite de Sherbrooke,DNA,,
 ,70,Queen's Univ,DNA,,
 ,75,Florida International Univ,DNA,,
