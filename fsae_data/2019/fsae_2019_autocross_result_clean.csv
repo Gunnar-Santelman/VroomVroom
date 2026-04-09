@@ -1,0 +1,124 @@
+Place,Car Num,Team,Best Time,Penalty,Score
+1,2,Graz Technical Univ,48.799,,125
+2,1,Universitat Stuttgart,49.062,,122.95
+3,33,Oregon State Univ,51.279,,106.53
+4,5,Ecole De Technologie Superieure,51.994,,101.54
+5,90,Coburg University of Applied Sciences,52.152,,100.45
+6,62,Univ of Minnesota - Twin Cities,52.590,,97.48
+7,6,Univ of Akron,53.487,,91.54
+8,14,Polytechnique Montréal,53.501,,91.45
+9,9,Univ of Michigan - Ann Arbor,53.516,,91.35
+10,10,AGH Univ of Science and Technology,53.922,,88.73
+11,23,Rensselaer Polytechnic Inst,54.178,,87.09
+12,16,Kookmin Univ,54.380,,85.81
+13,18,Univ of Alabama - Tuscaloosa,54.540,,84.81
+14,11,Michigan State Univ,54.716,,83.71
+15,7,Carleton Univ,54.821,,83.06
+16,29,Univ of Cincinnati,55.281,,80.23
+17,40,Clemson Univ,55.390,,79.57
+18,39,Univ of Missouri,55.466,,79.11
+19,73,Louisiana State Univ,55.615,,78.2
+20,69,Univ of Connecticut,55.769,,77.28
+21,37,Univ of Illinois - Urbana Champaign,55.782,,77.2
+22,126,Univ of Kansas - Lawrence,55.811,,77.03
+23,8,Univ of Wisconsin - Madison,55.889,,76.56
+24,84,Univ of Toronto,56.087,,75.38
+25,92,Univ of Victoria,56.287,,74.21
+26,56,National Univ of Singapore,56.451,,73.24
+27,46,San Jose State University,56.526,,72.8
+28,34,Univ of Central Florida,56.630,,72.2
+29,91,Georgia Institute of Technology,56.634,,72.18
+30,19,North Carolina State Univ - Raleigh,56.636,,72.17
+31,139,CEFET-MG,56.753,,71.49
+32,21,Univ of Florida,56.865,,70.84
+33,85,Wroclaw University of Technology,57.106,,69.46
+34,35,Kansas State Univ,57.336,,68.15
+35,88,The Ohio State University,57.419,,67.68
+36,80,Virginia Tech,57.818,,65.44
+37,36,Missouri University of Science and Tech,57.833,,65.36
+38,77,Oakland University,58.012,,64.36
+39,76,Hope College,58.127,,63.73
+40,66,Univ of Waterloo,58.307,,62.74
+41,54,Michigan Tech Univ,58.319,,62.67
+42,123,Villanova Univ,58.367,,62.41
+43,115,Univ of British Columbia,58.377,,62.36
+44,12,Purdue Univ - W Lafayette,58.413,,62.16
+45,94,Saginaw Valley State Univ,58.493,,61.72
+46,71,Univ of Puerto Rico-Mayaquez,58.578,,61.26
+47,65,Lehigh Univ,58.666,,60.78
+48,119,Duke Univ,59.295,,57.41
+49,117,Columbia Univ,59.456,,56.56
+50,55,Rutgers Univ,59.500,,56.33
+51,64,Univ of Maryland - College Park,59.791,,54.81
+52,47,Ryerson Univ,59.840,,54.55
+53,63,Washington Univ - St Louis,60.339,,51.97
+54,24,Univ of Toledo,60.456,,51.38
+55,107,Univ of South Florida,60.593,,50.68
+56,86,Wayne State Univ,60.596,,50.67
+57,122,Florida Atlantic Univ,60.709,,50.1
+58,38,Brown Univ,60.940,,48.93
+59,79,Georgia Southern Univ,61.115,,48.05
+60,105,Worcester Polytechnic Inst,61.218,,47.54
+61,43,Minnesota State University - Mankato,61.305,,47.11
+62,113,Dalhousie Univ,61.451,,46.39
+63,72,Florida International Univ,61.545,,45.92
+64,124,Univ of Nebraska - Lincoln,61.547,,45.92
+65,41,Grand Valley State Univ,61.650,,45.41
+66,109,US Air Force Academy,61.847,,44.45
+67,89,Tennessee Tech Univ,62.263,,42.43
+68,102,Lawrence Technological Univ,62.330,,42.11
+69,52,Western Michigan Univ,62.492,,41.34
+70,132,Univ of Pittsburgh - Pittsburgh,62.653,,40.57
+71,42,Univ of Kentucky,63.012,,38.88
+72,125,South Dakota State Univ,63.582,,36.23
+73,68,Penn State Univ - University Park,63.729,,35.55
+74,100,Clarkson University,64.340,,32.77
+75,75,Old Dominion Univ,64.766,,30.87
+76,99,York College of Pennsylvania,64.975,,29.94
+77,78,Temple Univ,65.082,,29.47
+78,108,Colorado Mesa University,65.237,,28.79
+79,70,Penn State Univ - Harrisburg,65.698,,26.79
+80,114,Binghamton Univ,65.731,,26.64
+81,98,Universidad Metropolitana,66.692,,22.56
+82,111,Lakehead Univ,66.793,,22.14
+83,20,Florida Inst of Tech,69.149,,12.63
+84,83,Univ of British Columbia - Okanagan,69.348,,11.86
+85,51,Universidad Simon Bolivar,69.592,,10.92
+86    T,81,Northwestern Univ,71.135,,6.5
+86    T,67,Univ of Guelph,74.065,,6.5
+86    T,49,Univ of Louisiana - Lafayette,74.585,,6.5
+86    T,17,Bradley Univ,76.153,,6.5
+86    T,26,Purdue Univ - Northwest,81.739,,6.5
+,15,Embry-Riddle Aero Univ - Daytona Beach,DNA,,
+,22,Auburn Univ,DNA,,
+,25,Florida A&M Univ/Florida State Univ,DNA,,
+,30,Univ of New Hampshire,DNA,,
+,32,Pellissippi State Community College,DNA,,
+,44,IPN - UPIITA,DNA,,
+,48,Vaughn College of Aeronautics,DNA,,
+,50,Univ of Michigan - Dearborn,DNA,,
+,53,Ferris State University,DNA,,
+,58,Kennesaw State University,DNA,,
+,59,Warsaw University of Technology,DNA,,
+,61,Queen's Univ,DNA,,
+,74,Rochester Institute of Technology,DNA,,
+,82,Univ of North Florida,DNA,,
+,87,California State Poly Univ - Pomona,DNA,,
+,93,Universite Du Quebec a Trois-Rivieres,DNA,,
+,95,Univ of Louisville,DNA,,
+,96,Central Michigan Univ,DNA,,
+,97,Washington State Univ,DNA,,
+,101,Mississippi State Univ,DNA,,
+,103,Texas Tech Univ,DNA,,
+,104,South Dakota School of Mines & Tech,DNA,,
+,106,Kettering Univ,DNA,,
+,110,US Naval Academy,DNA,,
+,112,Alabama A & M Univ,DNA,,
+,116,West Virginia Univ,DNA,,
+,118,Cooper Union,DNA,,
+,120,Universidad Autonoma Estado Mexico,DNA,,
+,129,California State Univ - Fullerton,DNA,,
+,131,Polytechnic Univ of Puerto Rico,DNA,,
+,,,,,
+,,,,,
+,,,,,

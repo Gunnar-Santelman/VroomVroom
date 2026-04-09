@@ -1,0 +1,121 @@
+Place,Car Num,Team,Best Time,Penalty,Score
+1,5,Ecole De Technologie Superieure,4.865,,75
+2,7,Carleton Univ,4.921,,70.51
+3,90,Coburg University of Applied Sciences,4.975,,66.31
+4,33,Oregon State Univ,5.001,,64.35
+5,1,Universitat Stuttgart,5.030,,62.18
+6     T,2,Graz Technical Univ,5.085,,58.19
+6     T,46,San Jose State University,5.085,,58.19
+8,56,National Univ of Singapore,5.138,,54.46
+9,29,Univ of Cincinnati,5.146,,53.9
+10    T,23,Rensselaer Polytechnic Inst,5.191,,50.84
+10    T,40,Clemson Univ,5.191,,50.84
+12,16,Kookmin Univ,5.195,,50.57
+13,54,Michigan Tech Univ,5.248,,47.07
+14,19,North Carolina State Univ - Raleigh,5.250,,46.94
+15    T,24,Univ of Toledo,5.301,,43.67
+15    T,85,Wroclaw University of Technology,5.301,,43.67
+17,79,Georgia Southern Univ,5.302,,43.61
+18    T,36,Missouri University of Science and Tech,5.303,,43.55
+18    T,39,Univ of Missouri,5.303,,43.55
+18    T,62,Univ of Minnesota - Twin Cities,5.303,,43.55
+18    T,86,Wayne State Univ,5.303,,43.55
+18    T,92,Univ of Victoria,5.303,,43.55
+18    T,94,Saginaw Valley State Univ,5.303,,43.55
+18    T,139,CEFET-MG,5.303,,43.55
+25,119,Duke Univ,5.305,,43.42
+26,80,Virginia Tech,5.325,,42.17
+27    T,14,Polytechnique Montréal,5.358,,40.13
+27    T,132,Univ of Pittsburgh - Pittsburgh,5.358,,40.13
+29,107,Univ of South Florida,5.367,,39.58
+30,47,Ryerson Univ,5.386,,38.43
+31    T,69,Univ of Connecticut,5.411,,36.94
+31    T,115,Univ of British Columbia,5.411,,36.94
+33    T,6,Univ of Akron,5.412,,36.88
+33    T,9,Univ of Michigan - Ann Arbor,5.412,,36.88
+33    T,18,Univ of Alabama - Tuscaloosa,5.412,,36.88
+36,63,Washington Univ - St Louis,5.415,,36.7
+37,76,Hope College,5.420,,36.41
+38,71,Univ of Puerto Rico-Mayaquez,5.421,,36.35
+39,73,Louisiana State Univ,5.428,,35.94
+40,55,Rutgers Univ,5.465,,33.78
+41    T,21,Univ of Florida,5.466,,33.73
+41    T,37,Univ of Illinois - Urbana Champaign,5.466,,33.73
+43,84,Univ of Toronto,5.467,,33.67
+44    T,12,Purdue Univ - W Lafayette,5.468,,33.61
+44    T,43,Minnesota State University - Mankato,5.468,,33.61
+44    T,65,Lehigh Univ,5.468,,33.61
+47    T,35,Kansas State Univ,5.521,,30.61
+47    T,52,Western Michigan Univ,5.521,,30.61
+47    T,91,Georgia Institute of Technology,5.521,,30.61
+50,123,Villanova Univ,5.522,,30.55
+51,38,Brown Univ,5.523,,30.5
+52    T,32,Pellissippi State Community College,5.576,,27.58
+52    T,77,Oakland University,5.576,,27.58
+52    T,113,Dalhousie Univ,5.576,,27.58
+55,8,Univ of Wisconsin - Madison,5.577,,27.53
+56    T,10,AGH Univ of Science and Technology,5.578,,27.47
+56    T,41,Grand Valley State Univ,5.578,,27.47
+58,124,Univ of Nebraska - Lincoln,5.584,,27.15
+59,34,Univ of Central Florida,5.585,,27.09
+60,66,Univ of Waterloo,5.629,,24.75
+61,88,The Ohio State University,5.631,,24.64
+62,89,Tennessee Tech Univ,5.633,,24.54
+63    T,11,Michigan State Univ,5.685,,21.84
+63    T,117,Columbia Univ,5.685,,21.84
+65,109,US Air Force Academy,5.693,,21.43
+66,67,Univ of Guelph,5.739,,19.11
+67    T,81,Northwestern Univ,5.740,,19.06
+67    T,100,Clarkson University,5.740,,19.06
+69    T,83,Univ of British Columbia - Okanagan,5.794,,16.42
+69    T,105,Worcester Polytechnic Inst,5.794,,16.42
+71    T,68,Penn State Univ - University Park,5.795,,16.37
+71    T,70,Penn State Univ - Harrisburg,5.795,,16.37
+71    T,75,Old Dominion Univ,5.795,,16.37
+71    T,122,Florida Atlantic Univ,5.795,,16.37
+75    T,64,Univ of Maryland - College Park,5.849,,13.8
+75    T,99,York College of Pennsylvania,5.849,,13.8
+77,126,Univ of Kansas - Lawrence,5.852,,13.65
+78,42,Univ of Kentucky,5.958,,8.81
+79,102,Lawrence Technological Univ,5.960,,8.72
+80    T,51,Universidad Simon Bolivar,6.013,,6.4
+80    T,108,Colorado Mesa University,6.013,,6.4
+82,98,Universidad Metropolitana,6.014,,6.36
+83,125,South Dakota State Univ,6.015,,6.32
+84,114,Binghamton Univ,6.028,,5.76
+85,78,Temple Univ,6.068,,4.06
+86    T,103,Texas Tech Univ,6.123,,3.5
+86    T,111,Lakehead Univ,6.123,,3.5
+86    T,72,Florida International Univ,6.140,,3.5
+86    T,26,Purdue Univ - Northwest,6.451,,3.5
+86    T,17,Bradley Univ,7.981,,3.5
+86    T,101,Mississippi State Univ,8.308,,3.5
+86    T,49,Univ of Louisiana - Lafayette,9.897,,3.5
+,15,Embry-Riddle Aero Univ - Daytona Beach,DNA,,
+,20,Florida Inst of Tech,DNA,,
+,22,Auburn Univ,DNA,,
+,25,Florida A&M Univ/Florida State Univ,DNA,,
+,30,Univ of New Hampshire,DNA,,
+,44,IPN - UPIITA,DNA,,
+,48,Vaughn College of Aeronautics,DNA,,
+,50,Univ of Michigan - Dearborn,DNA,,
+,53,Ferris State University,DNA,,
+,58,Kennesaw State University,DNA,,
+,59,Warsaw University of Technology,DNA,,
+,61,Queen's Univ,DNA,,
+,74,Rochester Institute of Technology,DNA,,
+,82,Univ of North Florida,DNA,,
+,87,California State Poly Univ - Pomona,DNA,,
+,93,Universite Du Quebec a Trois-Rivieres,DNA,,
+,95,Univ of Louisville,DNA,,
+,96,Central Michigan Univ,DNA,,
+,97,Washington State Univ,DNA,,
+,104,South Dakota School of Mines & Tech,DNA,,
+,106,Kettering Univ,DNA,,
+,110,US Naval Academy,DNA,,
+,112,Alabama A & M Univ,DNA,,
+,116,West Virginia Univ,DNA,,
+,118,Cooper Union,DNA,,
+,120,Universidad Autonoma Estado Mexico,DNA,,
+,129,California State Univ - Fullerton,DNA,,
+,131,Polytechnic Univ of Puerto Rico,DNA,,
