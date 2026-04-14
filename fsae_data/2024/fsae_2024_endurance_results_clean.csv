@@ -1,5 +1,4 @@
-Place,Car Num,Team,Time,Laps,Cones,Off Course,"Other
-Penalty",Adjusted Time,Time Score,Laps Score,Endurance Score
+Place,Car Num,Team,Time,Laps,Cones,Off Course,Other Penalty,Adjusted Time,Time Score,Laps Score,Endurance Score
 1,3,The Ohio State University,1389.891,10,3,,,1395.891,250,25,275
 2,30,Univ of Calif - Berkeley,1396.241,10,1,1,,1418.241,237.3,25,262.3
 3,9,Univ of North Carolina - Charlotte,1408.963,10,,1,,1428.963,231.4,25,256.4
