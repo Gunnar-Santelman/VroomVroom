@@ -3,10 +3,10 @@ Place,Car Num,Team,Best Time,Penalty,Score
 2,103,Univ of Calif - Berkeley,46.189,,122.49
 3,134,Univ of Minnesota - Twin Cities,46.315,,121.46
 4,19,Univ of Illinois - Urbana Champaign,46.606,,119.1
-5,140,Texas A&M Univ - College Station,46.86,,117.06
+5,140,Texas A&M Univ - College Station,46.860,,117.06
 6,81,California State Poly Univ - Pomona,47.135,,114.88
 7,124,Univ of Connecticut,47.386,,112.91
-8,72,Univ of Cincinnati,47.41,,112.73
+8,72,Univ of Cincinnati,47.410,,112.73
 9,131,Wroclaw University of Technology,47.541,,111.71
 10,88,The Ohio State University,47.796,,109.74
 11,43,Univ of Calgary,48.241,,106.36
@@ -17,19 +17,19 @@ Place,Car Num,Team,Best Time,Penalty,Score
 16,14,California Polytechnic State Univ-SLO,48.934,,101.21
 17,32,Univ of Calif - Los Angeles,49.248,,98.93
 18,13,Univ of Kansas - Lawrence,49.456,,97.43
-19,33,Purdue Univ - W Lafayette,49.51,,97.05
-20,18,Univ of Missouri,49.63,,96.19
+19,33,Purdue Univ - W Lafayette,49.510,,97.05
+20,18,Univ of Missouri,49.630,,96.19
 21,137,Iowa State Univ,49.821,,94.84
 22,86,Villanova Univ,49.864,,94.54
 23,53,Michigan State University,49.865,,94.53
-24,80,Univ of Calif - San Diego,50.05,,93.23
+24,80,Univ of Calif - San Diego,50.050,,93.23
 25,97,Univ of South Florida,50.465,,90.35
 26,82,Georgia Institute of Technology,50.478,,90.26
 27,99,Univ of Akron,50.534,,89.88
 28,55,Univ of North Carolina - Charlotte,50.636,,89.18
-29,57,Univ of Pittsburgh - Pittsburgh,50.65,,89.08
+29,57,Univ of Pittsburgh - Pittsburgh,50.650,,89.08
 30,71,Oklahoma State Univ,50.922,,87.23
-31,34,California State Univ - Northridge,51.22,,85.23
+31,34,California State Univ - Northridge,51.220,,85.23
 32,117,Missouri University of Science and Tech,51.331,,84.5
 33,56,Clemson Univ,51.501,,83.37
 34,17,Univ of Victoria,51.718,,81.94
@@ -41,9 +41,9 @@ Place,Car Num,Team,Best Time,Penalty,Score
 40,74,Univ of Southern California,52.983,,73.85
 41,106,Old Dominion Univ,53.004,,73.72
 42,94,Temple Univ,53.085,,73.22
-43,162,CEFET-MG,53.13,,72.94
+43,162,CEFET-MG,53.130,,72.94
 44,121,Univ of Wisconsin - Madison,53.179,,72.63
-45,21,Univ of Colorado - Boulder,53.24,,72.26
+45,21,Univ of Colorado - Boulder,53.240,,72.26
 46,29,California State Univ - Chico,53.311,,71.82
 47,61,Kennesaw State University,53.333,,71.68
 48,142,Duke Univ,53.584,,70.14
@@ -77,12 +77,12 @@ Place,Car Num,Team,Best Time,Penalty,Score
 76,26,California State Univ - Los Angeles,64.449,,15.02
 77,76,Oregon Inst of Tech,64.566,,14.53
 78,30,Missouri State University,65.007,,12.69
-79 T,93,Wichita State Univ,72.976,,6.5
-79 T,64,Univ of Saskatchewan,74.004,,6.5
-79 T,108,Brown Univ,76.072,,6.5
-79 T,31,York College of Pennsylvania,99.776,,6.5
-79 T,27,California State Univ - Fullerton,100.728,,6.5
-79 T,136,Texas Tech Univ,100.906,,6.5
+79    T,93,Wichita State Univ,72.976,,6.5
+79    T,64,Univ of Saskatchewan,74.004,,6.5
+79    T,108,Brown Univ,76.072,,6.5
+79    T,31,York College of Pennsylvania,99.776,,6.5
+79    T,27,California State Univ - Fullerton,100.728,,6.5
+79    T,136,Texas Tech Univ,100.906,,6.5
 ,12,Purdue Univ - Northwest,DNA,,
 ,15,Lehigh Univ,DNA,,
 ,20,Clarkson University,DNA,,
@@ -120,3 +120,6 @@ Place,Car Num,Team,Best Time,Penalty,Score
 ,132,Univ of Massachusetts - Lowell,DNA,,
 ,147,Univ of Alabama - Tuscaloosa,DNA,,
 ,151,Syracuse Univ,DNA,,
+,,,,,
+,,,,,
+,,,,,
